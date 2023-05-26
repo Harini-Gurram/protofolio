@@ -5,7 +5,7 @@ import project3 from '../assets/project3.jfif';
 const PROJECTS=[
     {
         id:1,
-        title:'Example react app',
+        title:'Demo react app',
         description:'A react app that I built, using JS and core web concepts',
         link:'https://github.com',
         image:project1
